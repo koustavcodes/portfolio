@@ -12,4 +12,4 @@ This portfolio project was created as part of the Codecademy Front-End Engineer 
 
 ## Deploy Status
 
-**Deployed using GitHub Pages live website:** [https://koustavcodes.github.io/portfolio/](https://koustavcodes.github.io/portfolio/)
+**Deployed using GitHub Pages live website:** [https://koustavsarkar.com](https://koustavsarkar.com)
